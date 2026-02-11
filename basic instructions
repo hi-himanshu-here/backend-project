@@ -1,0 +1,5 @@
+// DB Connection
+// through mongoose
+// whenever connecting to a DB, use a try and catch block that way if there is an error, we can catch it and log it to the console. 
+// we will be using the mongoose library to connect to our MongoDB database.
+// always use async and await.
